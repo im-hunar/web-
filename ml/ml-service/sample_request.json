@@ -1,0 +1,15 @@
+{
+  "Age": 50,
+  "Sex": 1,
+  "RestingBP": 120,
+  "Cholesterol": 200,
+  "FastingBS": 0,
+  "MaxHR": 150,
+  "ExerciseAngina": 0,
+  "Oldpeak": 1.0,
+  "ChestPainType_ATA": 1,
+  "ChestPainType_NAP": 0,
+  "ChestPainType_TA": 0,
+  "ST_Slope_Flat": 0,
+  "ST_Slope_Up": 1
+}
